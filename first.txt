@@ -4,3 +4,6 @@ by default every file in working directory, we have to bring it into staging are
 hi
 siddu
 done siddu
+
+two more lines
+add

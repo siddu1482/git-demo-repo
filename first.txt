@@ -1,0 +1,3 @@
+First
+
+by default every file in working directory, we have to bring it into staging area.
